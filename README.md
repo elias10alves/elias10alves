@@ -3,14 +3,14 @@
 **`Mais do que um usuário avançado, este profissional é um entusiasta estratégico da tecnologia. Ele não se contenta em saber 'como' funciona, mas mergulha no 'porquê' e no 'para quê', buscando sempre alavancar as inovações para otimizar processos, gerar insights e impulsionar resultados. Sua dedicação é a faísca que acende a transformação digital, tornando o complexo simples e o futuro, presente.`**
 
 <p align="left">
-     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+     <a href="https://github.com/elias10alves?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/elias10alves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/elias10alves?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
