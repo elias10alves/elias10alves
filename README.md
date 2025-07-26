@@ -7,7 +7,7 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/elias10alves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://github.com/elias10alves?tab=repositories&sort=stargazers"
         />
     </a>
     <a href="https://github.com/elias10alves?tab=followers">
