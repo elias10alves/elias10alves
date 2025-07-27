@@ -3,12 +3,20 @@
 **`Mais do que um usuário avançado, este profissional é um entusiasta estratégico da tecnologia. Ele não se contenta em saber 'como' funciona, mas mergulha no 'porquê' e no 'para quê', buscando sempre alavancar as inovações para otimizar processos, gerar insights e impulsionar resultados. Sua dedicação é a faísca que acende a transformação digital, tornando o complexo simples e o futuro, presente.`**
 
 <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elias10alves" />
+    <a href="https://github.com/elias10alves?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/elias10alves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elias10alves&layout=compact&langs_count=8&card_width=320" />
-     </a>
+    <a href="https://github.com/elias10alves?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/elias10alves?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 ---
 ### 🤖 Linguagens e Tecnologias
